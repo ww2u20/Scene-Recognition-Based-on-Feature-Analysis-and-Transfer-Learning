@@ -1,0 +1,2 @@
+# Scene-Recognition-Based-on-Feature-Analysis-and-Transfer-Learning
+Wrote software that classifies scenes into one of 15 categories and ran each classifier against all the test images toprovide a prediction of the class for each image by implementing K-nearest neighbor classifier, linear classifier basedon Bag-of-Visual-Words, traditional classification method under the GIST feature and transfer learning method.
